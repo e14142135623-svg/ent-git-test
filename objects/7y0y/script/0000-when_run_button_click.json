@@ -5,7 +5,7 @@
     "deletable": 1,
     "emphasized": false,
     "extensions": [],
-    "id": "wa0f",
+    "id": "vzoa",
     "movable": null,
     "params": [
       null
@@ -15,5 +15,76 @@
     "type": "when_run_button_click",
     "x": 50,
     "y": 30
+  },
+  {
+    "assemble": true,
+    "copyable": true,
+    "deletable": 1,
+    "emphasized": false,
+    "extensions": [],
+    "id": "h5o9",
+    "movable": null,
+    "params": [
+      {
+        "assemble": true,
+        "copyable": true,
+        "deletable": 1,
+        "emphasized": false,
+        "extensions": [],
+        "id": "5xt0",
+        "movable": null,
+        "params": [
+          10
+        ],
+        "readOnly": null,
+        "statements": [],
+        "type": "number",
+        "x": 0,
+        "y": 0
+      },
+      null
+    ],
+    "readOnly": null,
+    "statements": [
+      [
+        {
+          "assemble": true,
+          "copyable": true,
+          "deletable": 1,
+          "emphasized": false,
+          "extensions": [],
+          "id": "vz2q",
+          "movable": null,
+          "params": [
+            {
+              "assemble": true,
+              "copyable": true,
+              "deletable": 1,
+              "emphasized": false,
+              "extensions": [],
+              "id": "gxco",
+              "movable": null,
+              "params": [
+                10
+              ],
+              "readOnly": null,
+              "statements": [],
+              "type": "number",
+              "x": 0,
+              "y": 0
+            },
+            null
+          ],
+          "readOnly": null,
+          "statements": [],
+          "type": "move_direction",
+          "x": 0,
+          "y": 0
+        }
+      ]
+    ],
+    "type": "repeat_basic",
+    "x": 0,
+    "y": 0
   }
 ]

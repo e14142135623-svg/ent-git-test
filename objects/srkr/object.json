@@ -13,13 +13,13 @@
     "x": 0,
     "y": 0
   },
-  "id": "ukyv",
+  "id": "srkr",
   "lock": false,
   "name": "제목 없는 다이어그램.drawio (3).svg",
   "objectType": "sprite",
   "rotateMethod": "free",
   "scene": "7dwq",
-  "selectedPictureId": "aiwp",
+  "selectedPictureId": "q87e",
   "sprite": {
     "pictures": [
       {
@@ -27,8 +27,8 @@
           "height": 390,
           "width": 960
         },
-        "filename": "e9e43e1amq1roz2u0006cec654fcgyba",
-        "id": "aiwp",
+        "filename": "4ebf8c9amq1si5bs0006cec654g4e8a3",
+        "id": "q87e",
         "imageType": "svg",
         "name": "제목 없는 다이어그램.drawio (3).svg"
       }

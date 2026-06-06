@@ -1,0 +1,19 @@
+[
+  {
+    "assemble": true,
+    "copyable": true,
+    "deletable": 1,
+    "emphasized": false,
+    "extensions": [],
+    "id": "y1su",
+    "movable": null,
+    "params": [
+      null
+    ],
+    "readOnly": null,
+    "statements": [],
+    "type": "when_run_button_click",
+    "x": 335,
+    "y": 315
+  }
+]
