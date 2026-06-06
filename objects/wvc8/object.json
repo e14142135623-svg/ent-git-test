@@ -1,0 +1,38 @@
+{
+  "entity": {
+    "direction": 90,
+    "font": "undefinedpx ",
+    "height": 660,
+    "regX": 480,
+    "regY": 330,
+    "rotation": 0,
+    "scaleX": 0.12345679012345677,
+    "scaleY": 0.12345679012345678,
+    "visible": true,
+    "width": 960,
+    "x": 0,
+    "y": 0
+  },
+  "id": "wvc8",
+  "lock": false,
+  "name": "2026-06-03 10 33 19.png",
+  "objectType": "sprite",
+  "rotateMethod": "free",
+  "scene": "7dwq",
+  "selectedPictureId": "ss5x",
+  "sprite": {
+    "pictures": [
+      {
+        "dimension": {
+          "height": 660,
+          "width": 960
+        },
+        "filename": "b2d5fda9mq1rodeb0006a2c9433uedqj",
+        "id": "ss5x",
+        "imageType": "png",
+        "name": "2026-06-03 10 33 19.png"
+      }
+    ],
+    "sounds": []
+  }
+}
