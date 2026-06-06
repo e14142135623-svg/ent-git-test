@@ -1,0 +1,113 @@
+{
+  "aiUtilizeBlocks": [],
+  "expansionBlocks": [],
+  "externalModules": [],
+  "externalModulesLite": [],
+  "functions": [],
+  "hardwareLiteBlocks": [],
+  "interface": {
+    "canvasWidth": 640,
+    "object": "7y0y"
+  },
+  "isPracticalCourse": false,
+  "messages": [],
+  "name": "01_정답의 리메이크",
+  "parent": "66912b1c9ff77c30c97247f5",
+  "speed": 60,
+  "tables": [],
+  "variables": [
+    {
+      "cloudDate": false,
+      "id": "y7vi",
+      "isCloud": false,
+      "isRealTime": false,
+      "name": "찾았다",
+      "object": null,
+      "value": 0,
+      "variableType": "variable",
+      "visible": true,
+      "x": -230,
+      "y": -49
+    },
+    {
+      "cloudDate": false,
+      "id": "i5e5",
+      "isCloud": false,
+      "isRealTime": false,
+      "name": "index",
+      "object": null,
+      "value": 0,
+      "variableType": "variable",
+      "visible": true,
+      "x": -230,
+      "y": -77
+    },
+    {
+      "array": [
+        {
+          "data": "개나리"
+        },
+        {
+          "data": "철쭉"
+        },
+        {
+          "data": "무궁화"
+        },
+        {
+          "data": "진달래"
+        },
+        {
+          "data": "튤립"
+        },
+        {
+          "data": "카네이션"
+        },
+        {
+          "data": "벚꽃"
+        },
+        {
+          "data": "장미"
+        }
+      ],
+      "cloudDate": false,
+      "height": 120,
+      "id": "uqw3",
+      "isCloud": false,
+      "isRealTime": false,
+      "name": "리스트",
+      "object": null,
+      "value": 0,
+      "variableType": "list",
+      "visible": true,
+      "width": 100,
+      "x": 120,
+      "y": -115
+    },
+    {
+      "cloudDate": false,
+      "id": "brih",
+      "isCloud": false,
+      "isRealTime": false,
+      "name": "초시계",
+      "object": null,
+      "value": 0,
+      "variableType": "timer",
+      "visible": false,
+      "x": 134,
+      "y": -70
+    },
+    {
+      "cloudDate": false,
+      "id": "1vu8",
+      "isCloud": false,
+      "isRealTime": false,
+      "name": " 대답 ",
+      "object": null,
+      "value": "0",
+      "variableType": "answer",
+      "visible": true,
+      "x": 150,
+      "y": -100
+    }
+  ]
+}
