@@ -1,8 +1,43 @@
 {
+  "aiUtilizeBlocks": [],
+  "expansionBlocks": [],
+  "externalModules": [],
+  "externalModulesLite": [],
   "functions": [],
+  "hardwareLiteBlocks": [],
+  "interface": {
+    "canvasWidth": 476,
+    "object": "7y0y"
+  },
   "messages": [],
-  "name": "merge-demo",
   "speed": 60,
   "tables": [],
-  "variables": []
+  "variables": [
+    {
+      "cloudDate": false,
+      "id": "brih",
+      "isCloud": false,
+      "isRealTime": false,
+      "name": "초시계",
+      "object": null,
+      "value": "0",
+      "variableType": "timer",
+      "visible": false,
+      "x": 134,
+      "y": -70
+    },
+    {
+      "cloudDate": false,
+      "id": "1vu8",
+      "isCloud": false,
+      "isRealTime": false,
+      "name": "대답",
+      "object": null,
+      "value": "0",
+      "variableType": "answer",
+      "visible": false,
+      "x": 150,
+      "y": -100
+    }
+  ]
 }

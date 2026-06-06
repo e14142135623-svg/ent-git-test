@@ -1,0 +1,38 @@
+[
+  {
+    "assemble": true,
+    "copyable": true,
+    "deletable": 1,
+    "emphasized": false,
+    "extensions": [],
+    "id": "vhgq",
+    "movable": null,
+    "params": [
+      {
+        "assemble": true,
+        "copyable": true,
+        "deletable": 1,
+        "emphasized": false,
+        "extensions": [],
+        "id": "4o8q",
+        "movable": null,
+        "params": [
+          10
+        ],
+        "readOnly": null,
+        "statements": [],
+        "type": "number",
+        "x": 0,
+        "y": 0
+      },
+      null
+    ],
+    "readOnly": null,
+    "statements": [
+      []
+    ],
+    "type": "repeat_basic",
+    "x": 166,
+    "y": 111
+  }
+]
