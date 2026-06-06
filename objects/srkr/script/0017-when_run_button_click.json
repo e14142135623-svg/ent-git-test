@@ -1,0 +1,19 @@
+[
+  {
+    "assemble": true,
+    "copyable": true,
+    "deletable": 1,
+    "emphasized": false,
+    "extensions": [],
+    "id": "rv4z",
+    "movable": null,
+    "params": [
+      null
+    ],
+    "readOnly": null,
+    "statements": [],
+    "type": "when_run_button_click",
+    "x": 305,
+    "y": 285
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "entity": {
+    "direction": 90,
+    "font": "undefinedpx ",
+    "height": 540,
+    "regX": 210.5,
+    "regY": 270,
+    "rotation": 0,
+    "scaleX": 0.20811654526534856,
+    "scaleY": 0.2081165452653486,
+    "visible": true,
+    "width": 421,
+    "x": 0,
+    "y": 0
+  },
+  "id": "jzuq",
+  "lock": false,
+  "name": "2026-06-04 15 43 04.png",
+  "objectType": "sprite",
+  "rotateMethod": "free",
+  "scene": "7dwq",
+  "selectedPictureId": "zlaj",
+  "sprite": {
+    "pictures": [
+      {
+        "dimension": {
+          "height": 540,
+          "width": 421
+        },
+        "filename": "593b4c68mq1shxje0006cec654ftc2pc",
+        "id": "zlaj",
+        "imageType": "png",
+        "name": "2026-06-04 15 43 04.png"
+      }
+    ],
+    "sounds": []
+  }
+}

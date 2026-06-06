@@ -2,35 +2,35 @@
   "entity": {
     "direction": 90,
     "font": "undefinedpx ",
-    "height": 660,
+    "height": 488,
     "regX": 480,
-    "regY": 330,
+    "regY": 244,
     "rotation": 0,
-    "scaleX": 0.12345679012345677,
-    "scaleY": 0.12345679012345678,
+    "scaleX": 0.13812154696132597,
+    "scaleY": 0.13812154696132597,
     "visible": true,
     "width": 960,
     "x": 0,
     "y": 0
   },
-  "id": "wvc8",
+  "id": "8wlk",
   "lock": false,
-  "name": "2026-06-03 10 33 19.png",
+  "name": "2026-05-28 23 16 55.png",
   "objectType": "sprite",
   "rotateMethod": "free",
   "scene": "7dwq",
-  "selectedPictureId": "ss5x",
+  "selectedPictureId": "lro6",
   "sprite": {
     "pictures": [
       {
         "dimension": {
-          "height": 660,
+          "height": 488,
           "width": 960
         },
-        "filename": "b2d5fda9mq1rodeb0006a2c9433uedqj",
-        "id": "ss5x",
+        "filename": "93b4c68bmq1shxje0006cec654ftfrw3",
+        "id": "lro6",
         "imageType": "png",
-        "name": "2026-06-03 10 33 19.png"
+        "name": "2026-05-28 23 16 55.png"
       }
     ],
     "sounds": []
