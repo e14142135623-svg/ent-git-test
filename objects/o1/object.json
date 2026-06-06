@@ -1,0 +1,15 @@
+{
+  "id": "o1",
+  "name": "업로드봇",
+  "objectType": "sprite",
+  "scene": "s1",
+  "sprite": {
+    "pictures": [
+      {
+        "filename": "5fda982dmq1rodec0006a2c9433uiv1a",
+        "name": "업로드이미지"
+      }
+    ],
+    "sounds": []
+  }
+}
