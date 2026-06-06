@@ -1,0 +1,36 @@
+[
+  {
+    "assemble": true,
+    "copyable": true,
+    "deletable": 1,
+    "emphasized": false,
+    "extensions": [],
+    "id": "mcwi",
+    "movable": null,
+    "params": [
+      {
+        "assemble": true,
+        "copyable": true,
+        "deletable": 1,
+        "emphasized": false,
+        "extensions": [],
+        "id": "ebd6",
+        "movable": null,
+        "params": [
+          "10"
+        ],
+        "readOnly": null,
+        "statements": [],
+        "type": "number",
+        "x": 0,
+        "y": 0
+      },
+      null
+    ],
+    "readOnly": null,
+    "statements": [],
+    "type": "move_x",
+    "x": 239,
+    "y": 415
+  }
+]
