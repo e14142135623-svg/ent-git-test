@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a1",
+    "params": [
+      10
+    ],
+    "statements": [],
+    "type": "move_x",
+    "x": 0,
+    "y": 0
+  }
+]

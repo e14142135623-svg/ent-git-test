@@ -1,9 +1,10 @@
 {
   "formatVersion": 1,
   "objectOrder": [
-    "7y0y"
+    "objA",
+    "objB"
   ],
   "sceneOrder": [
-    "7dwq"
+    "s1"
   ]
 }
